@@ -12,6 +12,28 @@ Atualmente estou usando mais o [React](https://reactnative.dev/) com o [Expo](ht
   <a href="https://www.linkedin.com/in/victor-manuel-343386251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:vm74531@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+```python
+class Programmer(Human):
+    """Class representing a programmer"""
+    
+    def __init__(self, name: str, age: int):
+        super().__init__(name, age)
+                
+    def coding(self) -> str:
+        return "breaking the head"
+        
+    def start(self):
+      while super().alive():
+        super().eat()
+        self.code()
+        super().sleep()
+
+if __name__ == "__main__":
+    developer = Programmer("Victor", 19)
+    developer.start()
+```
+
 <!--
 **vitao-al/vitao-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
