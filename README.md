@@ -13,6 +13,7 @@ Atualmente estou usando mais o [React](https://reactnative.dev/) com o [Expo](ht
   <a href="mailto:vm74531@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+## Vida do programador
 ```python
 class Programmer(Human):
     """Class representing a programmer"""
