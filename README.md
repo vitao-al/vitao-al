@@ -1,4 +1,4 @@
-<img src="BannerGit" alt="banner">
+<img src="BannerGit.jpeg" alt="banner">
 ## Hi there 👋
 
 <!--
