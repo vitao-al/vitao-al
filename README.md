@@ -5,7 +5,9 @@
 Sou um entusiasta da tecnologia que acredita no poder da inovação para transformar o mundo. Atualmente, estou imerso no universo de Desenvolvimento de Sistemas, onde cada linha de código é um passo em direção ao futuro. Meu objetivo é não apenas entender a tecnologia, mas também moldá-la para criar soluções que façam a diferença.
 
 ## Tecnologias
-Atualmente estou usando mais o [React](https://reactnative.dev/) com o [Expo](https://expo.dev/), mas uso **Java**, **Javascript**, **Python**, **Oracle Sql**, e **Firebase**.
+Atualmente estou usando mais o [React](https://reactnative.dev/) com o [Expo](https://expo.dev/), mas uso **Java**, **Javascript**, **Python**, **SQL**, **Spring-boot** e **Firebase**.
+## Alguns framework de estilização
+**Bootstrap** e **Tailwindcss**
 
 <div align="center" alt="links">
   <a href="https://www.instagram.com/vitao.al" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
