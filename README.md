@@ -7,8 +7,9 @@ Sou um entusiasta da tecnologia que acredita no poder da inovação para transfo
 ## Tecnologias
 Atualmente estou usando mais o [React](https://reactnative.dev/) com o [Expo](https://expo.dev/), mas uso **Java**, **Javascript**, **Python**, **SQL**, **Spring-boot** e **Firebase**.
 ## Alguns framework de estilização
-**Bootstrap** e **Tailwindcss**
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)	![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## Redes
 <div align="center" alt="links">
   <a href="https://www.instagram.com/vitao.al" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-manuel-343386251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
